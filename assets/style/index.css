@@ -1,0 +1,15 @@
+/* 
+dark grey - 222831
+grey - 393e46
+yellow - ffd369
+white/grey - eeeeee
+*/
+
+
+nav {
+    background-color: #393e46;
+};
+
+.portrait {
+    float: inline-end;
+}
