@@ -3,13 +3,31 @@ dark grey - 222831
 grey - 393e46
 yellow - ffd369
 white/grey - eeeeee
+
+font-family: 'Roboto Mono', monospace;
+font-family: 'Ubuntu', sans-serif;
 */
 
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+}
 
 nav {
-    background-color: #393e46;
-};
+    background-color: #BCC2C3;
+}
+
+h2 {
+    text-decoration: underline;
+}
 
 .portrait {
     float: inline-end;
+}
+
+.h1holder {
+    text-align: center;
 }
